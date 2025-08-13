@@ -1,0 +1,20 @@
+p {color: #172e55; padding-left: 20px;}
+#button {background-color: #567c8d;color: #f5efeb;}
+h1 {color:#567c8d; padding-left: 20px;}
+h2 {color: hsl(218, 57%, 21%); padding-left:20px;}
+h3 {color: hsl(218, 57%, 21%); padding-left:20px;}
+form {color: hsl(218, 57%, 21%);}
+*{font-family:Verdana, Geneva, Tahoma, sans-serif;}
+body{background-image: url(IMG-20250807-WA0077.jpg); background-size: cover; margin: 0px; padding: 0px;}
+.navbar {
+     background-color:  #567c8d;
+     display: flex;
+     justify-content: center; 
+     align-items: center;    
+     height: 90px;            
+}
+ a{padding:30px; text-decoration: none; color:#f5efeb; font-size:17px; }
+ a:hover{
+      color:#172e55
+ }
+
